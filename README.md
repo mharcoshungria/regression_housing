@@ -2,6 +2,8 @@
 
 # Projeto - Regressão
 
+Este repositório é parte das tarefas da Formação Intensiva de Data Science da [Awari](https://awari.com.br/). 
+
 ## 1. Considerações iniciais
 
 Neste notebook você irá praticar o desenvolvimento (pipeline) de uma solução utilizando Aprendizado de Máquina (Machine Learning). Na atividade, iremos criar um algoritmo de  **regressão** utilizando o conjunto de dados da biblioteca [scikit-learn](https://scikit-learn.org/stable/index.html) do Python. 
